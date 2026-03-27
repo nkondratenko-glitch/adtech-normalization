@@ -1,4 +1,4 @@
-# Kondratenko | HW 1 | Data Engineering: AdTech Dataset Normalization
+## Kondratenko | HW 1 | Data Engineering: AdTech Dataset Normalization
 
 This repository contains a fully normalized relational design for the provided denormalized `users.csv` and `campaigns.csv` datasets, plus scripts to transform the raw files into load-ready tables for MySQL.
 
